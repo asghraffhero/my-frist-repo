@@ -1,0 +1,27 @@
+img{
+    height: 500px;
+    width: 500px;
+}
+div{
+    display: inline;
+}
+h1{
+    color: green;
+    font-family: Arial ;
+    background-color: aqua;
+    width: 440px;
+    height: 40px;
+   
+}
+h3{
+    color: rgb(9, 110, 141);
+    font-family: calibri;
+    text-align: bold;
+
+}
+p{
+    border: red solid;
+   
+}
+
+
